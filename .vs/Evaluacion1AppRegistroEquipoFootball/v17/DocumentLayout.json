@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\Evaluacion1AppRegistroEquipoFootball\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89CFB389-BE41-4FF5-8029-9533B04C0040}|Evaluacion1AppRegistroEquipoFootball.csproj|c:\\users\\lenovo\\source\\repos\\evaluacion1appregistroequipofootball\\listarequipospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89CFB389-BE41-4FF5-8029-9533B04C0040}|Evaluacion1AppRegistroEquipoFootball.csproj|solutionrelative:listarequipospage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CFB389-BE41-4FF5-8029-9533B04C0040}|Evaluacion1AppRegistroEquipoFootball.csproj|c:\\users\\lenovo\\source\\repos\\evaluacion1appregistroequipofootball\\listarequipospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89CFB389-BE41-4FF5-8029-9533B04C0040}|Evaluacion1AppRegistroEquipoFootball.csproj|solutionrelative:listarequipospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CFB389-BE41-4FF5-8029-9533B04C0040}|Evaluacion1AppRegistroEquipoFootball.csproj|c:\\users\\lenovo\\source\\repos\\evaluacion1appregistroequipofootball\\agregarequipopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89CFB389-BE41-4FF5-8029-9533B04C0040}|Evaluacion1AppRegistroEquipoFootball.csproj|solutionrelative:agregarequipopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CFB389-BE41-4FF5-8029-9533B04C0040}|Evaluacion1AppRegistroEquipoFootball.csproj|c:\\users\\lenovo\\source\\repos\\evaluacion1appregistroequipofootball\\agregarequipopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89CFB389-BE41-4FF5-8029-9533B04C0040}|Evaluacion1AppRegistroEquipoFootball.csproj|solutionrelative:agregarequipopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CFB389-BE41-4FF5-8029-9533B04C0040}|Evaluacion1AppRegistroEquipoFootball.csproj|c:\\users\\lenovo\\source\\repos\\evaluacion1appregistroequipofootball\\models\\equipodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89CFB389-BE41-4FF5-8029-9533B04C0040}|Evaluacion1AppRegistroEquipoFootball.csproj|solutionrelative:models\\equipodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CFB389-BE41-4FF5-8029-9533B04C0040}|Evaluacion1AppRegistroEquipoFootball.csproj|c:\\users\\lenovo\\source\\repos\\evaluacion1appregistroequipofootball\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89CFB389-BE41-4FF5-8029-9533B04C0040}|Evaluacion1AppRegistroEquipoFootball.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CFB389-BE41-4FF5-8029-9533B04C0040}|Evaluacion1AppRegistroEquipoFootball.csproj|c:\\users\\lenovo\\source\\repos\\evaluacion1appregistroequipofootball\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89CFB389-BE41-4FF5-8029-9533B04C0040}|Evaluacion1AppRegistroEquipoFootball.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CFB389-BE41-4FF5-8029-9533B04C0040}|Evaluacion1AppRegistroEquipoFootball.csproj|c:\\users\\lenovo\\source\\repos\\evaluacion1appregistroequipofootball\\actualizarequipopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89CFB389-BE41-4FF5-8029-9533B04C0040}|Evaluacion1AppRegistroEquipoFootball.csproj|solutionrelative:actualizarequipopage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CFB389-BE41-4FF5-8029-9533B04C0040}|Evaluacion1AppRegistroEquipoFootball.csproj|c:\\users\\lenovo\\source\\repos\\evaluacion1appregistroequipofootball\\models\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89CFB389-BE41-4FF5-8029-9533B04C0040}|Evaluacion1AppRegistroEquipoFootball.csproj|solutionrelative:models\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CFB389-BE41-4FF5-8029-9533B04C0040}|Evaluacion1AppRegistroEquipoFootball.csproj|c:\\users\\lenovo\\source\\repos\\evaluacion1appregistroequipofootball\\acercadepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89CFB389-BE41-4FF5-8029-9533B04C0040}|Evaluacion1AppRegistroEquipoFootball.csproj|solutionrelative:acercadepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89CFB389-BE41-4FF5-8029-9533B04C0040}|Evaluacion1AppRegistroEquipoFootball.csproj|c:\\users\\lenovo\\source\\repos\\evaluacion1appregistroequipofootball\\actualizarequipopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{89CFB389-BE41-4FF5-8029-9533B04C0040}|Evaluacion1AppRegistroEquipoFootball.csproj|solutionrelative:actualizarequipopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\AppData\\Local\\Temp\\.vsdbgsrc\\44261f472e9d56ddca536cf78b41f575611326f6bc7501a7d0f9a0813c36e09b\\NavigationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 201,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 101,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ActualizarEquipoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Evaluacion1AppRegistroEquipoFootball\\ActualizarEquipoPage.xaml.cs",
+              "RelativeDocumentMoniker": "ActualizarEquipoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Evaluacion1AppRegistroEquipoFootball\\ActualizarEquipoPage.xaml.cs",
+              "RelativeToolTip": "ActualizarEquipoPage.xaml.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAtwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:25:03.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ActualizarEquipoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Evaluacion1AppRegistroEquipoFootball\\ActualizarEquipoPage.xaml",
+              "RelativeDocumentMoniker": "ActualizarEquipoPage.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Evaluacion1AppRegistroEquipoFootball\\ActualizarEquipoPage.xaml",
+              "RelativeToolTip": "ActualizarEquipoPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-18T20:23:17.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AcercaDePage.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Evaluacion1AppRegistroEquipoFootball\\AcercaDePage.xaml",
+              "RelativeDocumentMoniker": "AcercaDePage.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Evaluacion1AppRegistroEquipoFootball\\AcercaDePage.xaml",
+              "RelativeToolTip": "AcercaDePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-18T20:05:13.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListarEquiposPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Evaluacion1AppRegistroEquipoFootball\\ListarEquiposPage.xaml.cs",
+              "RelativeDocumentMoniker": "ListarEquiposPage.xaml.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Evaluacion1AppRegistroEquipoFootball\\ListarEquiposPage.xaml.cs",
+              "RelativeToolTip": "ListarEquiposPage.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAqwDEAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T19:57:59.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListarEquiposPage.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Evaluacion1AppRegistroEquipoFootball\\ListarEquiposPage.xaml",
+              "RelativeDocumentMoniker": "ListarEquiposPage.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Evaluacion1AppRegistroEquipoFootball\\ListarEquiposPage.xaml",
+              "RelativeToolTip": "ListarEquiposPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-18T19:24:34.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AgregarEquipoPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Evaluacion1AppRegistroEquipoFootball\\AgregarEquipoPage.xaml.cs",
+              "RelativeDocumentMoniker": "AgregarEquipoPage.xaml.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Evaluacion1AppRegistroEquipoFootball\\AgregarEquipoPage.xaml.cs",
+              "RelativeToolTip": "AgregarEquipoPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T19:16:44.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgregarEquipoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Evaluacion1AppRegistroEquipoFootball\\AgregarEquipoPage.xaml",
+              "RelativeDocumentMoniker": "AgregarEquipoPage.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Evaluacion1AppRegistroEquipoFootball\\AgregarEquipoPage.xaml",
+              "RelativeToolTip": "AgregarEquipoPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-18T19:14:26.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\.vsdbgsrc\\44261f472e9d56ddca536cf78b41f575611326f6bc7501a7d0f9a0813c36e09b\\NavigationService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\44261f472e9d56ddca536cf78b41f575611326f6bc7501a7d0f9a0813c36e09b\\NavigationService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\.vsdbgsrc\\44261f472e9d56ddca536cf78b41f575611326f6bc7501a7d0f9a0813c36e09b\\NavigationService.cs [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\44261f472e9d56ddca536cf78b41f575611326f6bc7501a7d0f9a0813c36e09b\\NavigationService.cs [Solo lectura]",
+              "ViewState": "AQIAACkEAAAAAAAAAAAvwEAEAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T19:04:59.792Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EquipoData.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Evaluacion1AppRegistroEquipoFootball\\Models\\EquipoData.cs",
+              "RelativeDocumentMoniker": "Models\\EquipoData.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Evaluacion1AppRegistroEquipoFootball\\Models\\EquipoData.cs",
+              "RelativeToolTip": "Models\\EquipoData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T00:56:59.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Evaluacion1AppRegistroEquipoFootball\\Models\\Equipo.cs",
+              "RelativeDocumentMoniker": "Models\\Equipo.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Evaluacion1AppRegistroEquipoFootball\\Models\\Equipo.cs",
+              "RelativeToolTip": "Models\\Equipo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T00:50:53.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Evaluacion1AppRegistroEquipoFootball\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Evaluacion1AppRegistroEquipoFootball\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-18T00:37:09.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\Evaluacion1AppRegistroEquipoFootball\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\Evaluacion1AppRegistroEquipoFootball\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T00:37:05.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
